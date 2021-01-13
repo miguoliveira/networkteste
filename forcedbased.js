@@ -293,7 +293,7 @@
                             that._firstConnection = 1;
                                      
                                
-                            var data = "{
+                            var data = [{
   "nodes": [
     {
       "key": [0],
@@ -777,10 +777,10 @@
       "title": ["Phase Three"]
     }
   ]
-}";
+}];
              
                                     var oGraph,
-                                    oModel = new JSONModel(data);
+                                    oModel = new JSONModel(data[0]);
                                     oModel.setSizeLimit(Number.MAX_SAFE_INTEGER);
 
                                     this_.getView().setModel(oModel, that.widgetName);
