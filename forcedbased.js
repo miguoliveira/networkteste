@@ -292,6 +292,13 @@
 
                             that._firstConnection = 1;
 
+                            $.ajaxSetup({
+                                beforeSend: function(xhr) {
+                                    xhr.setRequestHeader('Authorization', '...');
+                                }
+                            });                            
+                            
+                            
                             $.ajax({
                                 url: 'https://miguoliveira.github.io/networkteste/miguel_teste.json', //R Plumber REST API URL
                                 type: 'GET',
