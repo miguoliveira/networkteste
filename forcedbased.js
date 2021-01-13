@@ -297,8 +297,7 @@
                                 type: 'GET',
                                 async: true,
                                 timeout: 0,
-                                Authorization: "Bearer " + responseToken ,
-                                Accept: '*/*' ,
+                                X-Requested-With: 'XMLHttpRequest',
                                 contentType: 'application/json',
                                 success: function(data) {
                                     var oGraph,
