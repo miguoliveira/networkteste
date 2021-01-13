@@ -298,9 +298,6 @@
                                 async: true,
                                 timeout: 0,
                                 contentType: 'application/json',
-                                beforeSend: function(xhr) {
-                                    xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
-                                }   ,
                                 success: function(data) {
                                     var oGraph,
                                     oModel = new JSONModel(data[0]);
