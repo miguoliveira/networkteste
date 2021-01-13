@@ -300,7 +300,7 @@
                             
                             
                             $.ajax({
-                                url: 'https://miguoliveira.github.io/networkteste/miguel_teste.json', //R Plumber REST API URL
+                                url: 'https://cors-anywhere.herokuapp.com/https://miguoliveira.github.io/networkteste/miguel_teste.json', //R Plumber REST API URL
                                 type: 'GET',
                                 async: true,
                                 timeout: 0,
