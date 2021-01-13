@@ -298,7 +298,7 @@
                                 async: true,
                                 timeout: 0,
                                 Authorization: "Bearer " + responseToken ,
-                                Accept: '*/*'
+                                Accept: '*/*' ,
                                 contentType: 'application/json',
                                 success: function(data) {
                                     var oGraph,
