@@ -290,10 +290,10 @@
 
                         if (that._firstConnection === 0) {
 
-                            that._firstConnection = 1;                        
+                            that._firstConnection = 1;
 
                             $.ajax({
-                                url: 'https://cors-anywhere.herokuapp.com/https://miguoliveira.github.io/networkteste/miguel_teste.json', //R Plumber REST API URL
+                                url: 'https://miguoliveira.github.io/networkteste/miguel_teste.json', //R Plumber REST API URL
                                 type: 'GET',
                                 async: true,
                                 timeout: 0,
