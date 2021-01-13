@@ -291,19 +291,14 @@
                         if (that._firstConnection === 0) {
 
                             that._firstConnection = 1;
-
-                            $.ajaxSetup({
-                                beforeSend: function(xhr) {
-                                    xhr.setRequestHeader('Authorization', 'X-Requested-With', 'XMLHttpRequest');
-                                }
-                            });                            
-                            
                             
                             $.ajax({
                                 url: 'https://cors-anywhere.herokuapp.com/https://miguoliveira.github.io/networkteste/miguel_teste.json', //R Plumber REST API URL
                                 type: 'GET',
                                 async: true,
                                 timeout: 0,
+                                Authorization: "Bearer " + responseToken ,
+                                Accept: '*/*'
                                 contentType: 'application/json',
                                 success: function(data) {
                                     var oGraph,
