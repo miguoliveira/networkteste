@@ -298,13 +298,15 @@
                                 async: true,
                                 timeout: 0,
                                 cors: true,
+                                secure: true,
                                 dataType: 'jsonp',
                                   headers: {
                                     'Access-Control-Allow-Origin': '*',
+                                    'content-type': 'application/json',
                                   },
-          beforeSend: function (xhr) {
-            xhr.setRequestHeader ("Authorization", "Basic " + btoa(""));
-          },                                
+                                  beforeSend: function (xhr) {
+                                    xhr.setRequestHeader ("Authorization", "Basic " + btoa(""));
+                                  },                                
                                 contentType: 'application/json',
                                 success: function(data) {
                                     var oGraph,
