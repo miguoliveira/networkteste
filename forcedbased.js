@@ -297,7 +297,7 @@
                                 type: 'GET',
                                 async: true,
                                 timeout: 0,
-                                Access-Control-Allow-Origin: '*' ,
+                                Access-Control-Allow-Origin: * ,
                                 contentType: 'application/json',
                                 success: function(data) {
                                     var oGraph,
