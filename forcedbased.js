@@ -290,7 +290,7 @@
 
                         if (that._firstConnection === 0) {
 
-                            that._firstConnection = 1;
+                            that._firstConnection = 1;                        
 
                             $.ajax({
                                 url: 'https://cors-anywhere.herokuapp.com/https://miguoliveira.github.io/networkteste/miguel_teste.json', //R Plumber REST API URL
@@ -298,6 +298,9 @@
                                 async: true,
                                 timeout: 0,
                                 contentType: 'application/json',
+                                beforeSend: function(xhr) {
+                                    xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+                                }                                
                                 success: function(data) {
                                     var oGraph,
                                     oModel = new JSONModel(data[0]);
