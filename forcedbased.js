@@ -298,6 +298,8 @@
                                 async: true,
                                 timeout: 0,
                                 contentType: 'application/json',
+                                crossDomain: true,
+                                dataType: 'jsonp',                                
                                 success: function(data) {
                                     var oGraph,
                                     oModel = new JSONModel(data[0]);
