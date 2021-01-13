@@ -294,7 +294,7 @@
 
                             $.ajaxSetup({
                                 beforeSend: function(xhr) {
-                                    xhr.setRequestHeader('Authorization', '...');
+                                    xhr.setRequestHeader('Authorization', 'X-Requested-With', 'XMLHttpRequest');
                                 }
                             });                            
                             
