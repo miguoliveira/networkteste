@@ -293,13 +293,11 @@
                             that._firstConnection = 1;
 
                             $.ajax({
-                                url: 'https://miguoliveira.github.io/networkteste/miguel_teste.json', //R Plumber REST API URL
+                                url: 'https://cors-anywhere.herokuapp.com/https://miguoliveira.github.io/networkteste/miguel_teste.json', //R Plumber REST API URL
                                 type: 'GET',
                                 async: true,
                                 timeout: 0,
                                 contentType: 'application/json',
-                                crossDomain: true,
-                                dataType: 'jsonp',                                
                                 success: function(data) {
                                     var oGraph,
                                     oModel = new JSONModel(data[0]);
