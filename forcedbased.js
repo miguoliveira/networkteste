@@ -297,7 +297,14 @@
                                 type: 'GET',
                                 async: true,
                                 timeout: 0,
-                                Access-Control-Allow-Origin: * ,
+                                cors: true,
+                                dataType: 'jsonp',
+                                  headers: {
+                                    'Access-Control-Allow-Origin': '*',
+                                  },
+          beforeSend: function (xhr) {
+            xhr.setRequestHeader ("Authorization", "Basic " + btoa(""));
+          },                                
                                 contentType: 'application/json',
                                 success: function(data) {
                                     var oGraph,
