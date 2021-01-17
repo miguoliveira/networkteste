@@ -997,7 +997,13 @@
   "lines": [
     {
       "from": [0],
-      "to": [1]
+      "to": [1],
+	  "attributes": [
+        {
+          "label": ["Ownership"],
+          "value": ["100%"]
+        }
+      ]	  
     },
     {
       "from": [0],
