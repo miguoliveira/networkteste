@@ -297,7 +297,7 @@
   "nodes": [
     {
       "key": [0],
-      "title": [null],
+      "title": ["BV_1"],
       "group": [1],
       "status": ["Success"],
       "icon": ["sap-icon://shield"],
@@ -314,7 +314,7 @@
     },
     {
       "key": [1],
-      "title": [null],
+      "title": ["ANCHOR"],
       "group": [1],
       "status": ["Success"],
       "icon": ["sap-icon://shield"],
@@ -350,7 +350,8 @@
       "title": ["Phase Three"]
     }
   ]
-}];
+}
+];
              
                                     var oGraph,
                                     oModel = new JSONModel(data[0]);
