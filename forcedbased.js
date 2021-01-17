@@ -1159,19 +1159,19 @@
   "groups": [
     {
       "key": [1],
-      "title": ["Phase One"]
+      "title": ["Headquarters"]
     },
     {
       "key": [2],
-      "title": ["Phase Two"]
+      "title": ["Central Europe"]
     },
     {
       "key": [3],
-      "title": ["Phase Three"]
+      "title": ["Iberia"]
     },
     {
       "key": [4],
-      "title": ["Phase Four"]
+      "title": ["South East Europe"]
     }
   ]
 }
