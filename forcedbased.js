@@ -304,7 +304,7 @@
       "attributes": [
         {
           "label": ["BV_1"],
-          "value": [null]
+          "value": [10]
         },
         {
           "label": [null],
@@ -321,7 +321,7 @@
       "attributes": [
         {
           "label": ["ANCHOR"],
-          "value": [null]
+          "value": [10]
         },
         {
           "label": [null],
@@ -351,6 +351,7 @@
     }
   ]
 }
+
 ];
              
                                     var oGraph,
