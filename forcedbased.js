@@ -297,14 +297,14 @@
   "nodes": [
     {
       "key": [0],
-      "title": ["BA Glass BV (BV_1)"],
+      "title": ["BA Glass BV"],
       "group": [1],
       "status": ["Success"],
       "icon": ["sap-icon://shield"],
       "attributes": [
         {
-          "label": [null],
-          "value": [null]
+          "label": ["BPC ID"],
+          "value": ["BV_1"]
         },
         {
           "label": [null],
@@ -314,14 +314,14 @@
     },
     {
       "key": [1],
-      "title": ["BA Glass BV (BGBV)"],
+      "title": ["ANCHOR"],
       "group": [1],
       "status": ["Success"],
       "icon": ["sap-icon://shield"],
       "attributes": [
         {
-          "label": [null],
-          "value": [null]
+          "label": ["BPC ID"],
+          "value": ["ANCHOR"]
         },
         {
           "label": [null],
@@ -331,14 +331,14 @@
     },
     {
       "key": [2],
-      "title": ["ANCHOR"],
+      "title": ["Central Europe"],
       "group": [1],
       "status": ["Success"],
       "icon": ["sap-icon://shield"],
       "attributes": [
         {
-          "label": [null],
-          "value": [null]
+          "label": ["BPC ID"],
+          "value": ["CE_1"]
         },
         {
           "label": [null],
@@ -348,14 +348,14 @@
     },
     {
       "key": [3],
-      "title": ["Central Europe (CE_1)"],
-      "group": [1],
+      "title": ["Ba Glass Poland Sp. Z o.o"],
+      "group": [2],
       "status": ["Success"],
       "icon": ["sap-icon://shield"],
       "attributes": [
         {
-          "label": [null],
-          "value": [null]
+          "label": ["BPC ID"],
+          "value": ["PL"]
         },
         {
           "label": [null],
@@ -365,14 +365,14 @@
     },
     {
       "key": [4],
-      "title": ["Ba Glass Poland Sp. Z o.o"],
+      "title": ["BA Glass Germany GmbH"],
       "group": [2],
       "status": ["Success"],
       "icon": ["sap-icon://shield"],
       "attributes": [
         {
-          "label": [null],
-          "value": [null]
+          "label": ["BPC ID"],
+          "value": ["BADE"]
         },
         {
           "label": [null],
@@ -382,14 +382,14 @@
     },
     {
       "key": [5],
-      "title": ["BA Glass Germany GmbH"],
-      "group": [2],
+      "title": ["Iberia"],
+      "group": [3],
       "status": ["Success"],
       "icon": ["sap-icon://shield"],
       "attributes": [
         {
-          "label": [null],
-          "value": [null]
+          "label": ["BPC ID"],
+          "value": ["IB_1"]
         },
         {
           "label": [null],
@@ -399,14 +399,14 @@
     },
     {
       "key": [6],
-      "title": ["Iberia (IB_1)"],
+      "title": ["BA Glass I"],
       "group": [3],
       "status": ["Success"],
       "icon": ["sap-icon://shield"],
       "attributes": [
         {
-          "label": [null],
-          "value": [null]
+          "label": ["BPC ID"],
+          "value": ["BBIG"]
         },
         {
           "label": [null],
@@ -416,14 +416,14 @@
     },
     {
       "key": [7],
-      "title": ["BA Glass I"],
+      "title": ["BA Glass Portugal"],
       "group": [3],
       "status": ["Success"],
       "icon": ["sap-icon://shield"],
       "attributes": [
         {
-          "label": [null],
-          "value": [null]
+          "label": ["BPC ID"],
+          "value": ["IB_2"]
         },
         {
           "label": [null],
@@ -433,14 +433,14 @@
     },
     {
       "key": [8],
-      "title": ["BA Glass Portugal (IB_2)"],
+      "title": ["BA Glass MG S.A."],
       "group": [3],
       "status": ["Success"],
       "icon": ["sap-icon://shield"],
       "attributes": [
         {
-          "label": [null],
-          "value": [null]
+          "label": ["BPC ID"],
+          "value": ["BAMG"]
         },
         {
           "label": [null],
@@ -450,14 +450,14 @@
     },
     {
       "key": [9],
-      "title": ["BA Glass Portugal (BA)"],
+      "title": ["MOLDIN"],
       "group": [3],
       "status": ["Success"],
       "icon": ["sap-icon://shield"],
       "attributes": [
         {
-          "label": [null],
-          "value": [null]
+          "label": ["BPC ID"],
+          "value": ["MOLD"]
         },
         {
           "label": [null],
@@ -467,14 +467,14 @@
     },
     {
       "key": [10],
-      "title": ["BA Glass MG S.A."],
+      "title": ["Barbosa & Almeida SGPS"],
       "group": [3],
       "status": ["Success"],
       "icon": ["sap-icon://shield"],
       "attributes": [
         {
-          "label": [null],
-          "value": [null]
+          "label": ["BPC ID"],
+          "value": ["IB_3"]
         },
         {
           "label": [null],
@@ -484,14 +484,14 @@
     },
     {
       "key": [11],
-      "title": ["MOLDIN"],
+      "title": ["BA Spain"],
       "group": [3],
       "status": ["Success"],
       "icon": ["sap-icon://shield"],
       "attributes": [
         {
-          "label": [null],
-          "value": [null]
+          "label": ["BPC ID"],
+          "value": ["IB_4"]
         },
         {
           "label": [null],
@@ -501,14 +501,14 @@
     },
     {
       "key": [12],
-      "title": ["Barbosa & Almeida SGPS (IB_3)"],
+      "title": ["BA Glass Spain"],
       "group": [3],
       "status": ["Success"],
       "icon": ["sap-icon://shield"],
       "attributes": [
         {
-          "label": [null],
-          "value": [null]
+          "label": ["BPC ID"],
+          "value": ["BAES"]
         },
         {
           "label": [null],
@@ -518,14 +518,14 @@
     },
     {
       "key": [13],
-      "title": ["Barbosa & Almeida SGPS"],
+      "title": ["Minas de Valdecastillo"],
       "group": [3],
       "status": ["Success"],
       "icon": ["sap-icon://shield"],
       "attributes": [
         {
-          "label": [null],
-          "value": [null]
+          "label": ["BPC ID"],
+          "value": ["MVC"]
         },
         {
           "label": [null],
@@ -535,14 +535,14 @@
     },
     {
       "key": [14],
-      "title": ["BA Spain (IB_4)"],
+      "title": ["BA Vidro Distribucion"],
       "group": [3],
       "status": ["Success"],
       "icon": ["sap-icon://shield"],
       "attributes": [
         {
-          "label": [null],
-          "value": [null]
+          "label": ["BPC ID"],
+          "value": ["ES03"]
         },
         {
           "label": [null],
@@ -552,14 +552,14 @@
     },
     {
       "key": [15],
-      "title": ["BA Glass Spain"],
-      "group": [3],
+      "title": ["South East Europe"],
+      "group": [4],
       "status": ["Success"],
       "icon": ["sap-icon://shield"],
       "attributes": [
         {
-          "label": [null],
-          "value": [null]
+          "label": ["BPC ID"],
+          "value": ["SEE"]
         },
         {
           "label": [null],
@@ -569,14 +569,14 @@
     },
     {
       "key": [16],
-      "title": ["Minas de Valdecastillo"],
-      "group": [3],
+      "title": ["Glasstank"],
+      "group": [4],
       "status": ["Success"],
       "icon": ["sap-icon://shield"],
       "attributes": [
         {
-          "label": [null],
-          "value": [null]
+          "label": ["BPC ID"],
+          "value": ["BAGT"]
         },
         {
           "label": [null],
@@ -586,14 +586,354 @@
     },
     {
       "key": [17],
-      "title": ["BA Vidro Distribucion"],
-      "group": [3],
+      "title": ["BA Glass Greece"],
+      "group": [4],
       "status": ["Success"],
       "icon": ["sap-icon://shield"],
       "attributes": [
         {
+          "label": ["BPC ID"],
+          "value": ["BAGR"]
+        },
+        {
           "label": [null],
           "value": [null]
+        }
+      ]
+    },
+    {
+      "key": [18],
+      "title": ["Glassinvest"],
+      "group": [4],
+      "status": ["Success"],
+      "icon": ["sap-icon://shield"],
+      "attributes": [
+        {
+          "label": ["BPC ID"],
+          "value": ["SEE_2"]
+        },
+        {
+          "label": [null],
+          "value": [null]
+        }
+      ]
+    },
+    {
+      "key": [19],
+      "title": ["Glassinvest Holdings Ltd."],
+      "group": [4],
+      "status": ["Success"],
+      "icon": ["sap-icon://shield"],
+      "attributes": [
+        {
+          "label": ["BPC ID"],
+          "value": ["CY01"]
+        },
+        {
+          "label": [null],
+          "value": [null]
+        }
+      ]
+    },
+    {
+      "key": [20],
+      "title": ["MGL"],
+      "group": [4],
+      "status": ["Success"],
+      "icon": ["sap-icon://shield"],
+      "attributes": [
+        {
+          "label": ["BPC ID"],
+          "value": ["SEE_3"]
+        },
+        {
+          "label": [null],
+          "value": [null]
+        }
+      ]
+    },
+    {
+      "key": [21],
+      "title": ["BA Glass Romania S.A."],
+      "group": [4],
+      "status": ["Success"],
+      "icon": ["sap-icon://shield"],
+      "attributes": [
+        {
+          "label": ["BPC ID"],
+          "value": ["BARO"]
+        },
+        {
+          "label": [null],
+          "value": [null]
+        }
+      ]
+    },
+    {
+      "key": [22],
+      "title": ["MGL Mediterr. Glass Ltd"],
+      "group": [4],
+      "status": ["Success"],
+      "icon": ["sap-icon://shield"],
+      "attributes": [
+        {
+          "label": ["BPC ID"],
+          "value": ["CY02"]
+        },
+        {
+          "label": [null],
+          "value": [null]
+        }
+      ]
+    },
+    {
+      "key": [23],
+      "title": ["Chelianda"],
+      "group": [4],
+      "status": ["Success"],
+      "icon": ["sap-icon://shield"],
+      "attributes": [
+        {
+          "label": ["BPC ID"],
+          "value": ["SEE_4"]
+        },
+        {
+          "label": [null],
+          "value": [null]
+        }
+      ]
+    },
+    {
+      "key": [24],
+      "title": ["Chelianda Estates Ltd."],
+      "group": [4],
+      "status": ["Success"],
+      "icon": ["sap-icon://shield"],
+      "attributes": [
+        {
+          "label": ["BPC ID"],
+          "value": ["CY06"]
+        },
+        {
+          "label": [null],
+          "value": [null]
+        }
+      ]
+    },
+    {
+      "key": [25],
+      "title": ["Land Prop. Intern. SRL"],
+      "group": [4],
+      "status": ["Success"],
+      "icon": ["sap-icon://shield"],
+      "attributes": [
+        {
+          "label": ["BPC ID"],
+          "value": ["BALP"]
+        },
+        {
+          "label": [null],
+          "value": [null]
+        }
+      ]
+    },
+    {
+      "key": [26],
+      "title": ["BA Romania"],
+      "group": [4],
+      "status": ["Success"],
+      "icon": ["sap-icon://shield"],
+      "attributes": [
+        {
+          "label": ["BPC ID"],
+          "value": ["SEE_9"]
+        },
+        {
+          "label": [null],
+          "value": [null]
+        }
+      ]
+    },
+    {
+      "key": [27],
+      "title": ["Bareck"],
+      "group": [4],
+      "status": ["Success"],
+      "icon": ["sap-icon://shield"],
+      "attributes": [
+        {
+          "label": ["BPC ID"],
+          "value": ["SEE_5"]
+        },
+        {
+          "label": [null],
+          "value": [null]
+        }
+      ]
+    },
+    {
+      "key": [28],
+      "title": ["Bareck Overseas"],
+      "group": [4],
+      "status": ["Success"],
+      "icon": ["sap-icon://shield"],
+      "attributes": [
+        {
+          "label": ["BPC ID"],
+          "value": ["CY03"]
+        },
+        {
+          "label": [null],
+          "value": [null]
+        }
+      ]
+    },
+    {
+      "key": [29],
+      "title": ["BA Bulgaria"],
+      "group": [4],
+      "status": ["Success"],
+      "icon": ["sap-icon://shield"],
+      "attributes": [
+        {
+          "label": ["BPC ID"],
+          "value": ["SEE_6"]
+        },
+        {
+          "label": [null],
+          "value": [null]
+        }
+      ]
+    },
+    {
+      "key": [30],
+      "title": ["BA Glass Bulgaria"],
+      "group": [4],
+      "status": ["Success"],
+      "icon": ["sap-icon://shield"],
+      "attributes": [
+        {
+          "label": ["BPC ID"],
+          "value": ["BABG"]
+        },
+        {
+          "label": [null],
+          "value": [null]
+        }
+      ]
+    },
+    {
+      "key": [31],
+      "title": ["Ambalaj Sofia City EOOD"],
+      "group": [4],
+      "status": ["Success"],
+      "icon": ["sap-icon://shield"],
+      "attributes": [
+        {
+          "label": ["BPC ID"],
+          "value": ["BAAS"]
+        },
+        {
+          "label": [null],
+          "value": [null]
+        }
+      ]
+    },
+    {
+      "key": [32],
+      "title": ["Iva Glass Manuf"],
+      "group": [4],
+      "status": ["Success"],
+      "icon": ["sap-icon://shield"],
+      "attributes": [
+        {
+          "label": ["BPC ID"],
+          "value": ["CY05"]
+        },
+        {
+          "label": [null],
+          "value": [null]
+        }
+      ]
+    },
+    {
+      "key": [33],
+      "title": ["Beluxen"],
+      "group": [4],
+      "status": ["Success"],
+      "icon": ["sap-icon://shield"],
+      "attributes": [
+        {
+          "label": ["BPC ID"],
+          "value": ["SEE_7"]
+        },
+        {
+          "label": [null],
+          "value": [null]
+        }
+      ]
+    },
+    {
+      "key": [34],
+      "title": ["Beluxen Enterprises"],
+      "group": [4],
+      "status": ["Success"],
+      "icon": ["sap-icon://shield"],
+      "attributes": [
+        {
+          "label": ["BPC ID"],
+          "value": ["CY04"]
+        },
+        {
+          "label": [null],
+          "value": [null]
+        }
+      ]
+    },
+    {
+      "key": [35],
+      "title": ["Hellenic Glass Recycling"],
+      "group": [4],
+      "status": ["Success"],
+      "icon": ["sap-icon://shield"],
+      "attributes": [
+        {
+          "label": ["BPC ID"],
+          "value": ["SEE_8"]
+        },
+        {
+          "label": [null],
+          "value": [null]
+        }
+      ]
+    },
+    {
+      "key": [36],
+      "title": ["BA Glass Serbia"],
+      "group": [4],
+      "status": ["Success"],
+      "icon": ["sap-icon://shield"],
+      "attributes": [
+        {
+          "label": ["BPC ID"],
+          "value": ["BARS"]
+        },
+        {
+          "label": [null],
+          "value": [null]
+        }
+      ]
+    },
+    {
+      "key": [37],
+      "title": ["Hellenic Glass Rec. SA"],
+      "group": [4],
+      "status": ["Success"],
+      "icon": ["sap-icon://shield"],
+      "attributes": [
+        {
+          "label": ["BPC ID"],
+          "value": ["BAHG"]
         },
         {
           "label": [null],
@@ -670,6 +1010,98 @@
     {
       "from": [14],
       "to": [17]
+    },
+    {
+      "from": [0],
+      "to": [18]
+    },
+    {
+      "from": [18],
+      "to": [19]
+    },
+    {
+      "from": [18],
+      "to": [20]
+    },
+    {
+      "from": [18],
+      "to": [21]
+    },
+    {
+      "from": [21],
+      "to": [22]
+    },
+    {
+      "from": [21],
+      "to": [23]
+    },
+    {
+      "from": [23],
+      "to": [24]
+    },
+    {
+      "from": [23],
+      "to": [25]
+    },
+    {
+      "from": [23],
+      "to": [26]
+    },
+    {
+      "from": [26],
+      "to": [27]
+    },
+    {
+      "from": [26],
+      "to": [28]
+    },
+    {
+      "from": [26],
+      "to": [29]
+    },
+    {
+      "from": [21],
+      "to": [30]
+    },
+    {
+      "from": [30],
+      "to": [31]
+    },
+    {
+      "from": [30],
+      "to": [32]
+    },
+    {
+      "from": [32],
+      "to": [33]
+    },
+    {
+      "from": [32],
+      "to": [34]
+    },
+    {
+      "from": [32],
+      "to": [35]
+    },
+    {
+      "from": [32],
+      "to": [36]
+    },
+    {
+      "from": [36],
+      "to": [37]
+    },
+    {
+      "from": [36],
+      "to": [38]
+    },
+    {
+      "from": [38],
+      "to": [39]
+    },
+    {
+      "from": [38],
+      "to": [49]
     }
   ],
   "groups": [
@@ -687,6 +1119,7 @@
     }
   ]
 }
+
 ];
              
                                     var oGraph,
