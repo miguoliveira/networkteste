@@ -297,14 +297,14 @@
   "nodes": [
     {
       "key": [0],
-      "title": ["BV_1"],
+      "title": ["BA Glass BV (BV_1)"],
       "group": [1],
       "status": ["Success"],
       "icon": ["sap-icon://shield"],
       "attributes": [
         {
-          "label": ["BV_1"],
-          "value": [10]
+          "label": [null],
+          "value": [null]
         },
         {
           "label": [null],
@@ -314,14 +314,82 @@
     },
     {
       "key": [1],
+      "title": ["BA Glass BV (BGBV)"],
+      "group": [1],
+      "status": ["Success"],
+      "icon": ["sap-icon://shield"],
+      "attributes": [
+        {
+          "label": [null],
+          "value": [null]
+        },
+        {
+          "label": [null],
+          "value": [null]
+        }
+      ]
+    },
+    {
+      "key": [2],
       "title": ["ANCHOR"],
       "group": [1],
       "status": ["Success"],
       "icon": ["sap-icon://shield"],
       "attributes": [
         {
-          "label": ["ANCHOR"],
-          "value": [10]
+          "label": [null],
+          "value": [null]
+        },
+        {
+          "label": [null],
+          "value": [null]
+        }
+      ]
+    },
+    {
+      "key": [3],
+      "title": ["CE (CE_1)"],
+      "group": [1],
+      "status": ["Success"],
+      "icon": ["sap-icon://shield"],
+      "attributes": [
+        {
+          "label": [null],
+          "value": [null]
+        },
+        {
+          "label": [null],
+          "value": [null]
+        }
+      ]
+    },
+    {
+      "key": [4],
+      "title": ["Ba Glass Poland Sp. Z o.o"],
+      "group": [2],
+      "status": ["Success"],
+      "icon": ["sap-icon://shield"],
+      "attributes": [
+        {
+          "label": [null],
+          "value": [null]
+        },
+        {
+          "label": [null],
+          "value": [null]
+        }
+      ]
+    },
+    {
+      "key": [5],
+      "title": ["BA Glass Germany GmbH"],
+      "group": [2],
+      "status": ["Success"],
+      "icon": ["sap-icon://shield"],
+      "attributes": [
+        {
+          "label": [null],
+          "value": [null]
         },
         {
           "label": [null],
@@ -333,7 +401,23 @@
   "lines": [
     {
       "from": [0],
-      "to": [1]
+      "to": ["NA"]
+    },
+    {
+      "from": [0],
+      "to": [2]
+    },
+    {
+      "from": [0],
+      "to": [3]
+    },
+    {
+      "from": [3],
+      "to": [4]
+    },
+    {
+      "from": [3],
+      "to": [5]
     }
   ],
   "groups": [
