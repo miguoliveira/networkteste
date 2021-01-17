@@ -350,7 +350,7 @@
     {
       "key": [3],
       "title": ["Central Europe"],
-      "group": [1],
+      "group": [2],
       "status": ["Success"],
       "icon": ["sap-icon://shield"],
       "attributes": [
