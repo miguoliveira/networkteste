@@ -1015,7 +1015,7 @@
       "attributes": [
         {
           "label": ["Ownership"],
-          "value": ["100%"]
+          "value": ["25%"]
         },
         {
           "label": [null],
