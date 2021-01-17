@@ -1007,27 +1007,63 @@
     },
     {
       "from": [0],
-      "to": [2]
+      "to": [2],
+"attributes": [
+        {
+          "label": ["Ownership"],
+          "value": ["100%"]
+        }
+      ]	  	  
     },
     {
       "from": [0],
-      "to": [3]
+      "to": [3],
+"attributes": [
+        {
+          "label": ["Ownership"],
+          "value": ["100%"]
+        }
+      ]	  	  
     },
     {
       "from": [3],
-      "to": [4]
+      "to": [4],
+"attributes": [
+        {
+          "label": ["Ownership"],
+          "value": ["100%"]
+        }
+      ]	  
     },
     {
       "from": [3],
-      "to": [5]
+      "to": [5],
+"attributes": [
+        {
+          "label": ["Ownership"],
+          "value": ["100%"]
+        }
+      ]	  	  
     },
     {
       "from": [0],
-      "to": [6]
+      "to": [6],
+"attributes": [
+        {
+          "label": ["Ownership"],
+          "value": ["100%"]
+        }
+      ]	  	  
     },
     {
       "from": [6],
-      "to": [7]
+      "to": [7],
+"attributes": [
+        {
+          "label": ["Ownership"],
+          "value": ["100%"]
+        }
+      ]	  
     },
     {
       "from": [6],
