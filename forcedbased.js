@@ -1082,10 +1082,6 @@
       "to": [39]
     },
     {
-      "from": [26],
-      "to": ["NA"]
-    },
-    {
       "from": [27],
       "to": [28]
     },
@@ -1152,7 +1148,8 @@
       "title": ["Phase Three"]
     }
   ]
-}];
+}
+];
              
                                     var oGraph,
                                     oModel = new JSONModel(data[0]);
