@@ -231,7 +231,44 @@
 
             let div0 = document.createElement('div');
             //div0.innerHTML = '<?xml version="1.0"?><script id="oView_' + widgetName + '" name="oView_' + widgetName + '" type="sapui5/xmlview"><mvc:View controllerName="myView.Template" xmlns="sap.suite.ui.commons.networkgraph" xmlns:layout="sap.suite.ui.commons.networkgraph.layout" xmlns:mvc="sap.ui.core.mvc" xmlns:m="sap.m" xmlns:l="sap.ui.layout" height="100%"><Graph enableWheelZoom="false" height="100%" width="100%" nodes="{' + widgetName + '>/nodes}" lines="{' + widgetName + '>/lines}" groups="{' + widgetName + '>/groups}" id="graph_' + widgetName + '"><layoutData><m:FlexItemData minWidth="75%" maxWidth="75%"/></layoutData><layoutAlgorithm><layout:ForceDirectedLayout optimalDistanceConstant="0.26" maxIterations="{settings>/maxIterations}" maxTime="{settings>/maxTime}" initialTemperature="{settings>/initialTemperature}" coolDownStep="{settings>/coolDownStep}"></layout:ForceDirectedLayout></layoutAlgorithm><nodes><Node height="{settings>/height}" key="{' + widgetName +'>key}" title="{' + widgetName + '>title}" icon="{' + widgetName + '>icon}" group="{' + widgetName + '>group}" attributes="{' + widgetName + '>attributes}" shape="{' + widgetName + '>shape}" status="{' + widgetName + '>status}" x="{' + widgetName + '>x}" y="{' + widgetName + '>y}"><attributes><ElementAttribute label="{' + widgetName + '>label}" value="{' + widgetName + '>value}"/></attributes></Node></nodes><lines><Line from="{' + widgetName + '>from}" to="{' + widgetName + '>to}" status="{' + widgetName + '>status}"></Line></lines><groups><Group key="{' + widgetName + '>key}" title="{' + widgetName + '>title}"></Group></groups></Graph></mvc:View></script>';
-            div0.innerHTML = '<?xml version="1.0"?><script id="oView_' + widgetName + '" name="oView_' + widgetName + '" type="sapui5/xmlview"><mvc:View controllerName="myView.Template" xmlns="sap.suite.ui.commons.networkgraph" xmlns:layout="sap.suite.ui.commons.networkgraph.layout" xmlns:mvc="sap.ui.core.mvc" xmlns:m="sap.m" xmlns:l="sap.ui.layout" height="100%"><l:FixFlex><l:fixContent><m:FlexBox fitContainer="true" renderType="Bare" wrap="Wrap" id="graphWrapper"><m:items><Graph enableWheelZoom="false" height="100%" width="100%" nodes="{' + widgetName + '>/nodes}" lines="{' + widgetName + '>/lines}" groups="{' + widgetName + '>/groups}" id="graph_' + widgetName + '"><layoutData><m:FlexItemData minWidth="100%" maxWidth="100%"/></layoutData><layoutAlgorithm><layout:ForceDirectedLayout optimalDistanceConstant="0.26" maxIterations="{settings>/maxIterations}" maxTime="{settings>/maxTime}" initialTemperature="{settings>/initialTemperature}" coolDownStep="{settings>/coolDownStep}"></layout:ForceDirectedLayout></layoutAlgorithm><nodes><Node height="{settings>/height}" key="{' + widgetName +'>key}" title="{' + widgetName + '>title}" icon="{' + widgetName + '>icon}" group="{' + widgetName + '>group}" attributes="{' + widgetName + '>attributes}" shape="{' + widgetName + '>shape}" status="{' + widgetName + '>status}" x="{' + widgetName + '>x}" y="{' + widgetName + '>y}"><attributes><ElementAttribute label="{' + widgetName + '>label}" value="{' + widgetName + '>value}"/></attributes></Node></nodes><lines><Line from="{' + widgetName + '>from}" to="{' + widgetName + '>to}" status="{' + widgetName + '>status}"></Line></lines><groups><Group key="{' + widgetName + '>key}" title="{' + widgetName + '>title}"></Group></groups></Graph></m:items></m:FlexBox></l:fixContent></l:FixFlex></mvc:View></script>';
+            //div0.innerHTML = '<?xml version="1.0"?><script id="oView_' + widgetName + '" name="oView_' + widgetName + '" type="sapui5/xmlview"><mvc:View controllerName="myView.Template" xmlns="sap.suite.ui.commons.networkgraph" xmlns:layout="sap.suite.ui.commons.networkgraph.layout" xmlns:mvc="sap.ui.core.mvc" xmlns:m="sap.m" xmlns:l="sap.ui.layout" height="100%"><l:FixFlex><l:fixContent><m:FlexBox fitContainer="true" renderType="Bare" wrap="Wrap" id="graphWrapper"><m:items><Graph enableWheelZoom="false" height="100%" width="100%" nodes="{' + widgetName + '>/nodes}" lines="{' + widgetName + '>/lines}" groups="{' + widgetName + '>/groups}" id="graph_' + widgetName + '"><layoutData><m:FlexItemData minWidth="100%" maxWidth="100%"/></layoutData><layoutAlgorithm><layout:ForceDirectedLayout optimalDistanceConstant="0.26" maxIterations="{settings>/maxIterations}" maxTime="{settings>/maxTime}" initialTemperature="{settings>/initialTemperature}" coolDownStep="{settings>/coolDownStep}"></layout:ForceDirectedLayout></layoutAlgorithm><nodes><Node height="{settings>/height}" key="{' + widgetName +'>key}" title="{' + widgetName + '>title}" icon="{' + widgetName + '>icon}" group="{' + widgetName + '>group}" attributes="{' + widgetName + '>attributes}" shape="{' + widgetName + '>shape}" status="{' + widgetName + '>status}" x="{' + widgetName + '>x}" y="{' + widgetName + '>y}"><attributes><ElementAttribute label="{' + widgetName + '>label}" value="{' + widgetName + '>value}"/></attributes></Node></nodes><lines><Line from="{' + widgetName + '>from}" to="{' + widgetName + '>to}" status="{' + widgetName + '>status}"></Line></lines><groups><Group key="{' + widgetName + '>key}" title="{' + widgetName + '>title}"></Group></groups></Graph></m:items></m:FlexBox></l:fixContent></l:FixFlex></mvc:View></script>';
+            
+            div0.innerHTML = '<?xml version="1.0"?>
+<script id="oView_' + widgetName + '" name="oView_' + widgetName + '" type="sapui5/xmlview">
+  <mvc:View xmlns="sap.suite.ui.commons.networkgraph" xmlns:layout="sap.suite.ui.commons.networkgraph.layout" xmlns:mvc="sap.ui.core.mvc" xmlns:m="sap.m" xmlns:l="sap.ui.layout" controllerName="myView.Template" height="100%">
+    <l:FixFlex>
+      <l:fixContent>
+        <m:FlexBox fitContainer="true" renderType="Bare" wrap="Wrap" id="graphWrapper">
+          <m:items>
+            <Graph enableWheelZoom="false" height="100%" width="100%" nodes="{' + widgetName + '&gt;/nodes}" lines="{' + widgetName + '&gt;/lines}" groups="{' + widgetName + '&gt;/groups}" id="graph_' + widgetName + '">
+              <layoutData>
+                <m:FlexItemData minWidth="100%" maxWidth="100%"/>
+              </layoutData>
+              <layoutAlgorithm>
+                <layout:ForceDirectedLayout optimalDistanceConstant="0.26" maxIterations="{settings&gt;/maxIterations}" maxTime="{settings&gt;/maxTime}" initialTemperature="{settings&gt;/initialTemperature}" coolDownStep="{settings&gt;/coolDownStep}"/>
+              </layoutAlgorithm>
+              <nodes>
+                <Node height="{settings&gt;/height}" key="{' + widgetName +'&gt;key}" title="{' + widgetName + '&gt;title}" icon="{' + widgetName + '&gt;icon}" group="{' + widgetName + '&gt;group}" attributes="{' + widgetName + '&gt;attributes}" shape="{' + widgetName + '&gt;shape}" status="{' + widgetName + '&gt;status}" x="{' + widgetName + '&gt;x}" y="{' + widgetName + '&gt;y}">
+                  <attributes>
+                    <ElementAttribute label="{' + widgetName + '&gt;label}" value="{' + widgetName + '&gt;value}"/>
+                  </attributes>
+                </Node>
+              </nodes>
+              <lines>
+                <Line from="{' + widgetName + '&gt;from}" to="{' + widgetName + '&gt;to}" status="{' + widgetName + '&gt;status}"/>
+              </lines>
+              <groups>
+                <Group key="{' + widgetName + '&gt;key}" title="{' + widgetName + '&gt;title}"/>
+              </groups>
+            </Graph>
+          </m:items>
+        </m:FlexBox>
+      </l:fixContent>
+    </l:FixFlex>
+  </mvc:View>
+</script>';
+            
+            
 
             _shadowRoot.appendChild(div0);
 
