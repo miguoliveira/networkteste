@@ -314,6 +314,23 @@
     },
     {
       "key": [1],
+      "title": ["BA Glass BV X"],
+      "group": [1],
+      "status": ["Success"],
+      "icon": ["sap-icon://shield"],
+      "attributes": [
+        {
+          "label": ["BPC ID"],
+          "value": ["BGBV"]
+        },
+        {
+          "label": [null],
+          "value": [null]
+        }
+      ]
+    },
+    {
+      "key": [2],
       "title": ["ANCHOR"],
       "group": [1],
       "status": ["Success"],
@@ -330,7 +347,7 @@
       ]
     },
     {
-      "key": [2],
+      "key": [3],
       "title": ["Central Europe"],
       "group": [1],
       "status": ["Success"],
@@ -347,7 +364,7 @@
       ]
     },
     {
-      "key": [3],
+      "key": [4],
       "title": ["Ba Glass Poland Sp. Z o.o"],
       "group": [2],
       "status": ["Success"],
@@ -364,7 +381,7 @@
       ]
     },
     {
-      "key": [4],
+      "key": [5],
       "title": ["BA Glass Germany GmbH"],
       "group": [2],
       "status": ["Success"],
@@ -381,7 +398,7 @@
       ]
     },
     {
-      "key": [5],
+      "key": [6],
       "title": ["Iberia"],
       "group": [3],
       "status": ["Success"],
@@ -398,7 +415,7 @@
       ]
     },
     {
-      "key": [6],
+      "key": [7],
       "title": ["BA Glass I"],
       "group": [3],
       "status": ["Success"],
@@ -415,7 +432,7 @@
       ]
     },
     {
-      "key": [7],
+      "key": [8],
       "title": ["BA Glass Portugal"],
       "group": [3],
       "status": ["Success"],
@@ -432,7 +449,24 @@
       ]
     },
     {
-      "key": [8],
+      "key": [9],
+      "title": ["BA Glass Portugal X"],
+      "group": [3],
+      "status": ["Success"],
+      "icon": ["sap-icon://shield"],
+      "attributes": [
+        {
+          "label": ["BPC ID"],
+          "value": ["BA"]
+        },
+        {
+          "label": [null],
+          "value": [null]
+        }
+      ]
+    },
+    {
+      "key": [10],
       "title": ["BA Glass MG S.A."],
       "group": [3],
       "status": ["Success"],
@@ -449,7 +483,7 @@
       ]
     },
     {
-      "key": [9],
+      "key": [11],
       "title": ["MOLDIN"],
       "group": [3],
       "status": ["Success"],
@@ -466,7 +500,7 @@
       ]
     },
     {
-      "key": [10],
+      "key": [12],
       "title": ["Barbosa & Almeida SGPS"],
       "group": [3],
       "status": ["Success"],
@@ -483,7 +517,24 @@
       ]
     },
     {
-      "key": [11],
+      "key": [13],
+      "title": ["Barbosa & Almeida SGPS X"],
+      "group": [3],
+      "status": ["Success"],
+      "icon": ["sap-icon://shield"],
+      "attributes": [
+        {
+          "label": ["BPC ID"],
+          "value": ["SGPS"]
+        },
+        {
+          "label": [null],
+          "value": [null]
+        }
+      ]
+    },
+    {
+      "key": [14],
       "title": ["BA Spain"],
       "group": [3],
       "status": ["Success"],
@@ -500,7 +551,7 @@
       ]
     },
     {
-      "key": [12],
+      "key": [15],
       "title": ["BA Glass Spain"],
       "group": [3],
       "status": ["Success"],
@@ -517,7 +568,7 @@
       ]
     },
     {
-      "key": [13],
+      "key": [16],
       "title": ["Minas de Valdecastillo"],
       "group": [3],
       "status": ["Success"],
@@ -534,7 +585,7 @@
       ]
     },
     {
-      "key": [14],
+      "key": [17],
       "title": ["BA Vidro Distribucion"],
       "group": [3],
       "status": ["Success"],
@@ -551,7 +602,7 @@
       ]
     },
     {
-      "key": [15],
+      "key": [18],
       "title": ["South East Europe"],
       "group": [4],
       "status": ["Success"],
@@ -568,7 +619,7 @@
       ]
     },
     {
-      "key": [16],
+      "key": [19],
       "title": ["Glasstank"],
       "group": [4],
       "status": ["Success"],
@@ -585,7 +636,7 @@
       ]
     },
     {
-      "key": [17],
+      "key": [20],
       "title": ["BA Glass Greece"],
       "group": [4],
       "status": ["Success"],
@@ -602,7 +653,7 @@
       ]
     },
     {
-      "key": [18],
+      "key": [21],
       "title": ["Glassinvest"],
       "group": [4],
       "status": ["Success"],
@@ -619,7 +670,7 @@
       ]
     },
     {
-      "key": [19],
+      "key": [22],
       "title": ["Glassinvest Holdings Ltd."],
       "group": [4],
       "status": ["Success"],
@@ -636,7 +687,7 @@
       ]
     },
     {
-      "key": [20],
+      "key": [23],
       "title": ["MGL"],
       "group": [4],
       "status": ["Success"],
@@ -653,7 +704,7 @@
       ]
     },
     {
-      "key": [21],
+      "key": [24],
       "title": ["BA Glass Romania S.A."],
       "group": [4],
       "status": ["Success"],
@@ -670,7 +721,7 @@
       ]
     },
     {
-      "key": [22],
+      "key": [25],
       "title": ["MGL Mediterr. Glass Ltd"],
       "group": [4],
       "status": ["Success"],
@@ -687,7 +738,7 @@
       ]
     },
     {
-      "key": [23],
+      "key": [26],
       "title": ["Chelianda"],
       "group": [4],
       "status": ["Success"],
@@ -704,7 +755,7 @@
       ]
     },
     {
-      "key": [24],
+      "key": [27],
       "title": ["Chelianda Estates Ltd."],
       "group": [4],
       "status": ["Success"],
@@ -721,7 +772,7 @@
       ]
     },
     {
-      "key": [25],
+      "key": [28],
       "title": ["Land Prop. Intern. SRL"],
       "group": [4],
       "status": ["Success"],
@@ -738,7 +789,7 @@
       ]
     },
     {
-      "key": [26],
+      "key": [29],
       "title": ["BA Romania"],
       "group": [4],
       "status": ["Success"],
@@ -755,7 +806,7 @@
       ]
     },
     {
-      "key": [27],
+      "key": [30],
       "title": ["Bareck"],
       "group": [4],
       "status": ["Success"],
@@ -772,7 +823,7 @@
       ]
     },
     {
-      "key": [28],
+      "key": [31],
       "title": ["Bareck Overseas"],
       "group": [4],
       "status": ["Success"],
@@ -789,7 +840,7 @@
       ]
     },
     {
-      "key": [29],
+      "key": [32],
       "title": ["BA Bulgaria"],
       "group": [4],
       "status": ["Success"],
@@ -806,7 +857,7 @@
       ]
     },
     {
-      "key": [30],
+      "key": [33],
       "title": ["BA Glass Bulgaria"],
       "group": [4],
       "status": ["Success"],
@@ -823,7 +874,7 @@
       ]
     },
     {
-      "key": [31],
+      "key": [34],
       "title": ["Ambalaj Sofia City EOOD"],
       "group": [4],
       "status": ["Success"],
@@ -840,7 +891,7 @@
       ]
     },
     {
-      "key": [32],
+      "key": [35],
       "title": ["Iva Glass Manuf"],
       "group": [4],
       "status": ["Success"],
@@ -857,7 +908,7 @@
       ]
     },
     {
-      "key": [33],
+      "key": [36],
       "title": ["Beluxen"],
       "group": [4],
       "status": ["Success"],
@@ -874,7 +925,7 @@
       ]
     },
     {
-      "key": [34],
+      "key": [37],
       "title": ["Beluxen Enterprises"],
       "group": [4],
       "status": ["Success"],
@@ -891,7 +942,7 @@
       ]
     },
     {
-      "key": [35],
+      "key": [38],
       "title": ["Hellenic Glass Recycling"],
       "group": [4],
       "status": ["Success"],
@@ -908,7 +959,7 @@
       ]
     },
     {
-      "key": [36],
+      "key": [39],
       "title": ["BA Glass Serbia"],
       "group": [4],
       "status": ["Success"],
@@ -925,7 +976,7 @@
       ]
     },
     {
-      "key": [37],
+      "key": [40],
       "title": ["Hellenic Glass Rec. SA"],
       "group": [4],
       "status": ["Success"],
@@ -1101,7 +1152,7 @@
     },
     {
       "from": [38],
-      "to": [49]
+      "to": [40]
     }
   ],
   "groups": [
