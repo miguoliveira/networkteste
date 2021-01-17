@@ -998,204 +998,322 @@
     {
       "from": [0],
       "to": [1],
-	  "attributes": [
-        {
-          "label": ["Ownership"],
-          "value": ["100%"]
-        }
-      ]	  
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [0],
       "to": [2],
-"attributes": [
-        {
-          "label": ["Ownership"],
-          "value": ["100%"]
-        }
-      ]	  	  
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [0],
       "to": [3],
-"attributes": [
-        {
-          "label": ["Ownership"],
-          "value": ["100%"]
-        }
-      ]	  	  
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [3],
       "to": [4],
-"attributes": [
-        {
-          "label": ["Ownership"],
-          "value": ["100%"]
-        }
-      ]	  
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [3],
       "to": [5],
-"attributes": [
-        {
-          "label": ["Ownership"],
-          "value": ["100%"]
-        }
-      ]	  	  
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [0],
       "to": [6],
-"attributes": [
-        {
-          "label": ["Ownership"],
-          "value": ["100%"]
-        }
-      ]	  	  
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [6],
       "to": [7],
-"attributes": [
-        {
-          "label": ["Ownership"],
-          "value": ["100%"]
-        }
-      ]	  
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [6],
-      "to": [8]
+      "to": [8],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [8],
-      "to": [9]
+      "to": [9],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [8],
-      "to": [10]
+      "to": [10],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [8],
-      "to": [11]
+      "to": [11],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [8],
-      "to": [12]
+      "to": [12],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [12],
-      "to": [13]
+      "to": [13],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [12],
-      "to": [14]
+      "to": [14],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [14],
-      "to": [15]
+      "to": [15],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [14],
-      "to": [16]
+      "to": [16],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [14],
-      "to": [17]
+      "to": [17],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [0],
-      "to": [18]
+      "to": [18],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [18],
-      "to": [19]
+      "to": [19],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [18],
-      "to": [20]
+      "to": [20],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [18],
-      "to": [21]
+      "to": [21],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [21],
-      "to": [22]
+      "to": [22],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [21],
-      "to": [23]
+      "to": [23],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [23],
-      "to": [24]
+      "to": [24],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [23],
-      "to": [25]
+      "to": [25],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [23],
-      "to": [26]
+      "to": [26],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [26],
-      "to": [27]
+      "to": [27],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [26],
-      "to": [28]
+      "to": [28],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [26],
-      "to": [29]
+      "to": [29],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [21],
-      "to": [30]
+      "to": [30],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [30],
-      "to": [31]
+      "to": [31],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [30],
-      "to": [32]
+      "to": [32],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [32],
-      "to": [33]
+      "to": [33],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [32],
-      "to": [34]
+      "to": [34],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [32],
-      "to": [35]
+      "to": [35],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [32],
-      "to": [36]
+      "to": [36],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [36],
-      "to": [37]
+      "to": [37],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [36],
-      "to": [38]
+      "to": [38],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [38],
-      "to": [39]
+      "to": [39],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     },
     {
       "from": [38],
-      "to": [40]
+      "to": [40],
+      "attributes": {
+        "label": ["Ownership"],
+        "value": ["100%"]
+      }
     }
   ],
   "groups": [
