@@ -297,647 +297,358 @@
   "nodes": [
     {
       "key": [0],
-      "title": ["BA Glass BV"],
+      "title": ["Iron Man"],
       "group": [1],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
+      "status": ["Error"],
+      "icon": ["sap-icon://key-user-settings"],
       "attributes": [
         {
-          "label": ["BPC ID"],
-          "value": ["BV_1"]
+          "label": ["Release date"],
+          "value": ["May 2, 2008"]
         },
         {
-          "label": [null],
-          "value": [null]
+          "label": ["Director"],
+          "value": ["Jon Favreau"]
         }
       ]
     },
     {
       "key": [1],
-      "title": ["ANCHOR"],
+      "title": ["Iron Man 2"],
       "group": [1],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
+      "status": ["Error"],
+      "icon": ["sap-icon://key-user-settings"],
       "attributes": [
         {
-          "label": ["BPC ID"],
-          "value": ["ANCHOR"]
+          "label": ["Release date"],
+          "value": ["May 7, 2010"]
         },
         {
-          "label": [null],
-          "value": [null]
+          "label": ["Director"],
+          "value": ["Jon Favreau"]
         }
       ]
     },
     {
       "key": [2],
-      "title": ["Central Europe"],
+      "title": ["The Incredible Hulk"],
       "group": [1],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
+      "status": ["Error"],
+      "icon": ["sap-icon://theater"],
       "attributes": [
         {
-          "label": ["BPC ID"],
-          "value": ["CE_1"]
+          "label": ["Release date"],
+          "value": ["June 13, 2008"]
         },
         {
-          "label": [null],
-          "value": [null]
+          "label": ["Director"],
+          "value": ["Louis Leterrier"]
         }
       ]
     },
     {
       "key": [3],
-      "title": ["Ba Glass Poland Sp. Z o.o"],
-      "group": [2],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
+      "title": ["Thor"],
+      "group": [1],
+      "status": ["Warning"],
+      "icon": ["sap-icon://wrenc"],
       "attributes": [
         {
-          "label": ["BPC ID"],
-          "value": ["PL"]
+          "label": ["Release date"],
+          "value": ["May 6, 2011"]
         },
         {
-          "label": [null],
-          "value": [null]
+          "label": ["Director"],
+          "value": ["Kenneth Branagh"]
         }
       ]
     },
     {
       "key": [4],
-      "title": ["BA Glass Germany GmbH"],
-      "group": [2],
+      "title": ["Captain America: The First Avenger"],
+      "group": [1],
       "status": ["Success"],
-      "icon": ["sap-icon://shield"],
+      "icon": ["sap-icon://unfavorite"],
       "attributes": [
         {
-          "label": ["BPC ID"],
-          "value": ["BADE"]
+          "label": ["Release date"],
+          "value": ["July 22, 2011"]
         },
         {
-          "label": [null],
-          "value": [null]
+          "label": ["Director"],
+          "value": ["Joe Johnston"]
         }
       ]
     },
     {
       "key": [5],
-      "title": ["Iberia"],
-      "group": [3],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
+      "title": ["Marvel's The Avengers"],
+      "group": [1],
+      "status": ["Error"],
+      "icon": ["sap-icon://text-color"],
       "attributes": [
         {
-          "label": ["BPC ID"],
-          "value": ["IB_1"]
+          "label": ["Release date"],
+          "value": ["May 4, 2012"]
         },
         {
-          "label": [null],
-          "value": [null]
+          "label": ["Director"],
+          "value": ["Joss Whedon"]
         }
       ]
     },
     {
       "key": [6],
-      "title": ["BA Glass I"],
-      "group": [3],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
+      "title": ["Iron Man 3"],
+      "group": [2],
+      "status": ["Error"],
+      "icon": ["sap-icon://key-user-settings"],
       "attributes": [
         {
-          "label": ["BPC ID"],
-          "value": ["BBIG"]
+          "label": ["Release date"],
+          "value": ["May 3, 2013"]
         },
         {
-          "label": [null],
-          "value": [null]
+          "label": ["Director"],
+          "value": ["Shane Black"]
         }
       ]
     },
     {
       "key": [7],
-      "title": ["BA Glass Portugal"],
-      "group": [3],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
+      "title": ["Thor: The Dark World"],
+      "group": [2],
+      "status": ["Warning"],
+      "icon": ["sap-icon://wrench"],
       "attributes": [
         {
-          "label": ["BPC ID"],
-          "value": ["IB_2"]
+          "label": ["Release date"],
+          "value": ["November 8, 2013"]
         },
         {
-          "label": [null],
-          "value": [null]
+          "label": ["Director"],
+          "value": ["Alan Taylor"]
         }
       ]
     },
     {
       "key": [8],
-      "title": ["BA Glass MG S.A."],
-      "group": [3],
+      "title": ["Captain America: The Winter Soldier"],
+      "group": [2],
       "status": ["Success"],
-      "icon": ["sap-icon://shield"],
+      "icon": ["sap-icon://unfavorite"],
       "attributes": [
         {
-          "label": ["BPC ID"],
-          "value": ["BAMG"]
+          "label": ["Release date"],
+          "value": ["April 4, 2014"]
         },
         {
-          "label": [null],
-          "value": [null]
+          "label": ["Director"],
+          "value": ["Anthony & Joe Russo"]
         }
       ]
     },
     {
       "key": [9],
-      "title": ["MOLDIN"],
+      "title": ["Doctor Strange"],
       "group": [3],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
+      "status": ["Error"],
+      "icon": ["sap-icon://activate"],
       "attributes": [
         {
-          "label": ["BPC ID"],
-          "value": ["MOLD"]
+          "label": ["Release date"],
+          "value": ["November 4, 2016"]
         },
         {
-          "label": [null],
-          "value": [null]
+          "label": ["Director"],
+          "value": ["Scott Derrickson"]
         }
       ]
     },
     {
       "key": [10],
-      "title": ["Barbosa & Almeida SGPS"],
-      "group": [3],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
+      "title": ["Avengers: Age of Ultron"],
+      "group": [2],
+      "status": ["Error"],
+      "icon": ["sap-icon://text-color"],
       "attributes": [
         {
-          "label": ["BPC ID"],
-          "value": ["IB_3"]
+          "label": ["Release date"],
+          "value": ["May 1, 2015"]
         },
         {
-          "label": [null],
-          "value": [null]
+          "label": ["Director"],
+          "value": ["Joss Whedon"]
         }
       ]
     },
     {
       "key": [11],
-      "title": ["BA Spain"],
+      "title": ["Ant-Man and the Wasp"],
       "group": [3],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
+      "status": ["Error"],
+      "icon": ["sap-icon://chain-link"],
       "attributes": [
         {
-          "label": ["BPC ID"],
-          "value": ["IB_4"]
+          "label": ["Release date"],
+          "value": ["July 6, 2018"]
         },
         {
-          "label": [null],
-          "value": [null]
+          "label": ["Director"],
+          "value": ["Peyton Reed"]
         }
       ]
     },
     {
       "key": [12],
-      "title": ["BA Glass Spain"],
+      "title": ["Thor: Ragnarok"],
       "group": [3],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
+      "status": ["Warning"],
+      "icon": ["sap-icon://wrench"],
       "attributes": [
         {
-          "label": ["BPC ID"],
-          "value": ["BAES"]
+          "label": ["Release date"],
+          "value": ["November 3, 2017"]
         },
         {
-          "label": [null],
-          "value": [null]
+          "label": ["Director"],
+          "value": ["Taika Waititi"]
         }
       ]
     },
     {
       "key": [13],
-      "title": ["Minas de Valdecastillo"],
-      "group": [3],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
+      "title": ["Ant-Man"],
+      "group": [2],
+      "status": ["Error"],
+      "icon": ["sap-icon://chain-link"],
       "attributes": [
         {
-          "label": ["BPC ID"],
-          "value": ["MVC"]
+          "label": ["Release date"],
+          "value": ["July 17, 2015"]
         },
         {
-          "label": [null],
-          "value": [null]
+          "label": ["Director"],
+          "value": ["Peyton Reed"]
         }
       ]
     },
     {
       "key": [14],
-      "title": ["BA Vidro Distribucion"],
+      "title": ["Captain America: Civil War"],
       "group": [3],
       "status": ["Success"],
-      "icon": ["sap-icon://shield"],
+      "icon": ["sap-icon://unfavorite"],
       "attributes": [
         {
-          "label": ["BPC ID"],
-          "value": ["ES03"]
+          "label": ["Release date"],
+          "value": ["May 6, 2016"]
         },
         {
-          "label": [null],
-          "value": [null]
+          "label": ["Director"],
+          "value": ["Anthony & Joe Russo"]
         }
       ]
     },
     {
       "key": [15],
-      "title": ["South East Europe"],
-      "group": [4],
-      "status": ["Success"],
+      "title": ["Guardians of the Galaxy"],
+      "group": [2],
+      "status": ["Error"],
       "icon": ["sap-icon://shield"],
       "attributes": [
         {
-          "label": ["BPC ID"],
-          "value": ["SEE"]
+          "label": ["Release date"],
+          "value": ["August 1, 2014"]
         },
         {
-          "label": [null],
-          "value": [null]
+          "label": ["Director"],
+          "value": ["James Gunn"]
         }
       ]
     },
     {
       "key": [16],
-      "title": ["Glasstank"],
-      "group": [4],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
+      "title": ["Spider-Man: Homecoming"],
+      "group": [3],
+      "status": ["Error"],
+      "icon": ["sap-icon://tree"],
       "attributes": [
         {
-          "label": ["BPC ID"],
-          "value": ["BAGT"]
+          "label": ["Release date"],
+          "value": ["July 7, 2017"]
         },
         {
-          "label": [null],
-          "value": [null]
+          "label": ["Director"],
+          "value": ["Jon Watts"]
         }
       ]
     },
     {
       "key": [17],
-      "title": ["BA Glass Greece"],
-      "group": [4],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
+      "title": ["Black Panther"],
+      "group": [3],
+      "status": ["Error"],
+      "icon": ["sap-icon://circle-task-2"],
       "attributes": [
         {
-          "label": ["BPC ID"],
-          "value": ["BAGR"]
+          "label": ["Release date"],
+          "value": ["February 16, 2018"]
         },
         {
-          "label": [null],
-          "value": [null]
+          "label": ["Director"],
+          "value": ["Ryan Coogler"]
         }
       ]
     },
     {
       "key": [18],
-      "title": ["Glassinvest"],
-      "group": [4],
-      "status": ["Success"],
+      "title": ["Guardians of the Galaxy Vol. 2"],
+      "group": [3],
+      "status": ["Error"],
       "icon": ["sap-icon://shield"],
       "attributes": [
         {
-          "label": ["BPC ID"],
-          "value": ["SEE_2"]
+          "label": ["Release date"],
+          "value": ["May 5, 2017"]
         },
         {
-          "label": [null],
-          "value": [null]
+          "label": ["Director"],
+          "value": ["James Gunn"]
         }
       ]
     },
     {
       "key": [19],
-      "title": ["Glassinvest Holdings Ltd."],
-      "group": [4],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
+      "title": ["Avengers 4"],
+      "group": [3],
+      "status": ["Error"],
+      "icon": ["sap-icon://text-color"],
       "attributes": [
         {
-          "label": ["BPC ID"],
-          "value": ["CY01"]
+          "label": ["Release date"],
+          "value": ["May 3, 2019"]
         },
         {
-          "label": [null],
-          "value": [null]
+          "label": ["Director"],
+          "value": ["Anthony & Joe Russo"]
         }
       ]
     },
     {
       "key": [20],
-      "title": ["MGL"],
-      "group": [4],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
+      "title": ["Avengers: Infinity War"],
+      "group": [3],
+      "status": ["Error"],
+      "icon": ["sap-icon://text-color"],
       "attributes": [
         {
-          "label": ["BPC ID"],
-          "value": ["SEE_3"]
+          "label": ["Release date"],
+          "value": ["April 27, 2018"]
         },
         {
-          "label": [null],
-          "value": [null]
-        }
-      ]
-    },
-    {
-      "key": [21],
-      "title": ["BA Glass Romania S.A."],
-      "group": [4],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
-      "attributes": [
-        {
-          "label": ["BPC ID"],
-          "value": ["BARO"]
-        },
-        {
-          "label": [null],
-          "value": [null]
-        }
-      ]
-    },
-    {
-      "key": [22],
-      "title": ["MGL Mediterr. Glass Ltd"],
-      "group": [4],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
-      "attributes": [
-        {
-          "label": ["BPC ID"],
-          "value": ["CY02"]
-        },
-        {
-          "label": [null],
-          "value": [null]
-        }
-      ]
-    },
-    {
-      "key": [23],
-      "title": ["Chelianda"],
-      "group": [4],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
-      "attributes": [
-        {
-          "label": ["BPC ID"],
-          "value": ["SEE_4"]
-        },
-        {
-          "label": [null],
-          "value": [null]
-        }
-      ]
-    },
-    {
-      "key": [24],
-      "title": ["Chelianda Estates Ltd."],
-      "group": [4],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
-      "attributes": [
-        {
-          "label": ["BPC ID"],
-          "value": ["CY06"]
-        },
-        {
-          "label": [null],
-          "value": [null]
-        }
-      ]
-    },
-    {
-      "key": [25],
-      "title": ["Land Prop. Intern. SRL"],
-      "group": [4],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
-      "attributes": [
-        {
-          "label": ["BPC ID"],
-          "value": ["BALP"]
-        },
-        {
-          "label": [null],
-          "value": [null]
-        }
-      ]
-    },
-    {
-      "key": [26],
-      "title": ["BA Romania"],
-      "group": [4],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
-      "attributes": [
-        {
-          "label": ["BPC ID"],
-          "value": ["SEE_9"]
-        },
-        {
-          "label": [null],
-          "value": [null]
-        }
-      ]
-    },
-    {
-      "key": [27],
-      "title": ["Bareck"],
-      "group": [4],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
-      "attributes": [
-        {
-          "label": ["BPC ID"],
-          "value": ["SEE_5"]
-        },
-        {
-          "label": [null],
-          "value": [null]
-        }
-      ]
-    },
-    {
-      "key": [28],
-      "title": ["Bareck Overseas"],
-      "group": [4],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
-      "attributes": [
-        {
-          "label": ["BPC ID"],
-          "value": ["CY03"]
-        },
-        {
-          "label": [null],
-          "value": [null]
-        }
-      ]
-    },
-    {
-      "key": [29],
-      "title": ["BA Bulgaria"],
-      "group": [4],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
-      "attributes": [
-        {
-          "label": ["BPC ID"],
-          "value": ["SEE_6"]
-        },
-        {
-          "label": [null],
-          "value": [null]
-        }
-      ]
-    },
-    {
-      "key": [30],
-      "title": ["BA Glass Bulgaria"],
-      "group": [4],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
-      "attributes": [
-        {
-          "label": ["BPC ID"],
-          "value": ["BABG"]
-        },
-        {
-          "label": [null],
-          "value": [null]
-        }
-      ]
-    },
-    {
-      "key": [31],
-      "title": ["Ambalaj Sofia City EOOD"],
-      "group": [4],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
-      "attributes": [
-        {
-          "label": ["BPC ID"],
-          "value": ["BAAS"]
-        },
-        {
-          "label": [null],
-          "value": [null]
-        }
-      ]
-    },
-    {
-      "key": [32],
-      "title": ["Iva Glass Manuf"],
-      "group": [4],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
-      "attributes": [
-        {
-          "label": ["BPC ID"],
-          "value": ["CY05"]
-        },
-        {
-          "label": [null],
-          "value": [null]
-        }
-      ]
-    },
-    {
-      "key": [33],
-      "title": ["Beluxen"],
-      "group": [4],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
-      "attributes": [
-        {
-          "label": ["BPC ID"],
-          "value": ["SEE_7"]
-        },
-        {
-          "label": [null],
-          "value": [null]
-        }
-      ]
-    },
-    {
-      "key": [34],
-      "title": ["Beluxen Enterprises"],
-      "group": [4],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
-      "attributes": [
-        {
-          "label": ["BPC ID"],
-          "value": ["CY04"]
-        },
-        {
-          "label": [null],
-          "value": [null]
-        }
-      ]
-    },
-    {
-      "key": [35],
-      "title": ["Hellenic Glass Recycling"],
-      "group": [4],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
-      "attributes": [
-        {
-          "label": ["BPC ID"],
-          "value": ["SEE_8"]
-        },
-        {
-          "label": [null],
-          "value": [null]
-        }
-      ]
-    },
-    {
-      "key": [36],
-      "title": ["BA Glass Serbia"],
-      "group": [4],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
-      "attributes": [
-        {
-          "label": ["BPC ID"],
-          "value": ["BARS"]
-        },
-        {
-          "label": [null],
-          "value": [null]
-        }
-      ]
-    },
-    {
-      "key": [37],
-      "title": ["Hellenic Glass Rec. SA"],
-      "group": [4],
-      "status": ["Success"],
-      "icon": ["sap-icon://shield"],
-      "attributes": [
-        {
-          "label": ["BPC ID"],
-          "value": ["BAHG"]
-        },
-        {
-          "label": [null],
-          "value": [null]
+          "label": ["Director"],
+          "value": ["Anthony & Joe Russo"]
         }
       ]
     }
@@ -948,60 +659,80 @@
       "to": [1]
     },
     {
-      "from": [0],
-      "to": [2]
+      "from": [1],
+      "to": [5]
     },
     {
-      "from": [0],
-      "to": [3]
-    },
-    {
-      "from": [3],
-      "to": [4]
+      "from": [2],
+      "to": [5]
     },
     {
       "from": [3],
       "to": [5]
     },
     {
-      "from": [0],
+      "from": [4],
+      "to": [5]
+    },
+    {
+      "from": [5],
       "to": [6]
     },
     {
-      "from": [6],
+      "from": [5],
       "to": [7]
     },
     {
-      "from": [6],
+      "from": [5],
       "to": [8]
     },
     {
-      "from": [8],
-      "to": [9]
+      "from": [5],
+      "to": [19]
+    },
+    {
+      "from": [6],
+      "to": [10]
+    },
+    {
+      "from": [7],
+      "to": [10]
     },
     {
       "from": [8],
       "to": [10]
     },
     {
-      "from": [8],
-      "to": [11]
-    },
-    {
-      "from": [8],
+      "from": [9],
       "to": [12]
     },
     {
-      "from": [12],
+      "from": [10],
+      "to": [12]
+    },
+    {
+      "from": [10],
       "to": [13]
     },
     {
-      "from": [12],
+      "from": [10],
       "to": [14]
     },
     {
-      "from": [14],
-      "to": [15]
+      "from": [10],
+      "to": [19]
+    },
+    {
+      "from": [12],
+      "to": [20]
+    },
+    {
+      "from": [13],
+      "to": [11]
+    },
+    {
+      "from": [13],
+      "to": [14]
     },
     {
       "from": [14],
@@ -1012,96 +743,24 @@
       "to": [17]
     },
     {
-      "from": [0],
+      "from": [15],
       "to": [18]
     },
     {
-      "from": [18],
-      "to": [19]
+      "from": [16],
+      "to": [20]
+    },
+    {
+      "from": [17],
+      "to": [20]
     },
     {
       "from": [18],
       "to": [20]
     },
     {
-      "from": [18],
-      "to": [21]
-    },
-    {
-      "from": [21],
-      "to": [22]
-    },
-    {
-      "from": [21],
-      "to": [23]
-    },
-    {
-      "from": [23],
-      "to": [24]
-    },
-    {
-      "from": [23],
-      "to": [25]
-    },
-    {
-      "from": [23],
-      "to": [26]
-    },
-    {
-      "from": [26],
-      "to": [27]
-    },
-    {
-      "from": [26],
-      "to": [28]
-    },
-    {
-      "from": [26],
-      "to": [29]
-    },
-    {
-      "from": [21],
-      "to": [30]
-    },
-    {
-      "from": [30],
-      "to": [31]
-    },
-    {
-      "from": [30],
-      "to": [32]
-    },
-    {
-      "from": [32],
-      "to": [33]
-    },
-    {
-      "from": [32],
-      "to": [34]
-    },
-    {
-      "from": [32],
-      "to": [35]
-    },
-    {
-      "from": [32],
-      "to": [36]
-    },
-    {
-      "from": [36],
-      "to": [37]
-    },
-    {
-      "from": [36],
-      "to": [38]
-    },
-    {
-      "from": [38],
-      "to": [39]
-    },
-    {
-      "from": [38],
-      "to": [49]
+      "from": [20],
+      "to": [19]
     }
   ],
   "groups": [
@@ -1118,9 +777,7 @@
       "title": ["Phase Three"]
     }
   ]
-}
-
-];
+}];
              
                                     var oGraph,
                                     oModel = new JSONModel(data[0]);
